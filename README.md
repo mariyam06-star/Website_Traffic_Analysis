@@ -44,10 +44,5 @@ Run all cells top to bottom. Swap in a newer `website_data.csv` (same column lay
 ## Tech Stack
 
 `Python` · `pandas` · `matplotlib` · `seaborn` · `Jupyter` · `Excel` (`openpyxl`)
-
-## Notes / Next Steps
-
-This export doesn't include page-level or conversion/goal data. A natural next step is layering in landing-page performance and goal completions to connect traffic quality to business outcomes.
-
 ---
 *Inspired by [The iScale's Website Data Analysis Project](https://github.com/TheiScale/YouTube-Video-Notes/tree/main/Website%20Data%20Analysis%20Project).*
